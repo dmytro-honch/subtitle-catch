@@ -1,0 +1,22 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+4158117142
+00:00:14.764 --> 00:00:16.558
+[some text]
+
+3050893226
+01:01:48.041 --> 01:01:50.543
+-[some text] ♪ <i>some text</i>
+<i>some text</i> ♪
+-[some text] some text!
+
+407670852
+01:01:50.669 --> 01:01:51.670
+[some text] ♪ <i>some text</i> ♪
+
+1089731616
+01:01:54.297 --> 01:01:58.051 line:10%
+♪ <i>'some text</i>
+<i>some text</i> ♪
+

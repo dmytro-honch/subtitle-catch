@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:4
+## Created with Unified Streaming Platform (version=1.11.20-26889)
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-TARGETDURATION:3804
+#USP-X-MEDIA:BANDWIDTH=1000,AVERAGE-BANDWIDTH=1000,TYPE=SUBTITLES,GROUP-ID="textstream",LANGUAGE="en",NAME="English (caption)",AUTOSELECT=YES,CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog,public.accessibility.describes-music-and-sound",CODECS="wvtt"
+#EXTINF:3804, no desc
+cc_en.webvtt
+#EXT-X-ENDLIST
